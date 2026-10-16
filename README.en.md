@@ -46,18 +46,6 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%"/></p>
 
-## 📊 Battle log
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jaimelukaz&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d0a07&title_color=e8c170&text_color=f3e6c8&icon_color=a67c2e&border_color=a67c2e&ring_color=8b1e1e" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimelukaz&layout=compact&hide_border=false&bg_color=0d0a07&title_color=e8c170&text_color=f3e6c8&icon_color=a67c2e&border_color=a67c2e&ring_color=8b1e1e" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaimelukaz&background=0D0A07&border=A67C2E&ring=8B1E1E&fire=E8C170&currStreakNum=F3E6C8&sideNums=F3E6C8&currStreakLabel=E8C170&sideLabels=E8C170&dates=A67C2E" alt="streak"/>
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%"/></p>
-
 ## 🛡 Invite to party
 
 <p align="center">

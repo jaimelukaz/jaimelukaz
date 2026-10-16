@@ -300,18 +300,6 @@ def readme(lg):
 
 {div}
 
-## {t['st']}
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={U}&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&{STATS_THEME}" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username={U}&layout=compact&hide_border=false&{STATS_THEME}" alt="langs"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user={U}&background=0D0A07&border=A67C2E&ring=8B1E1E&fire=E8C170&currStreakNum=F3E6C8&sideNums=F3E6C8&currStreakLabel=E8C170&sideLabels=E8C170&dates=A67C2E" alt="streak"/>
-</p>
-
-{div}
-
 ## {t['party']}
 
 <p align="center">
