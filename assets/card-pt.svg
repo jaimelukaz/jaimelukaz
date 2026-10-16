@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff1c1"/><stop offset=".45" stop-color="#e8c170"/>
+    <stop offset=".55" stop-color="#a67c2e"/><stop offset="1" stop-color="#f6d27a"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#20160d"/><stop offset="1" stop-color="#0d0a07"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".5" cy=".55" r=".6">
+    <stop offset="0" stop-color="#7a2a0c" stop-opacity=".55"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shine" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>.t{font-family:Cinzel, 'Trajan Pro', 'Palatino Linotype', Palatino, Georgia, serif;}.s{font-family:Georgia,'Times New Roman',serif;}</style>
+<rect width="900" height="330" fill="url(#bg)"/>
+<text x="450" y="52" text-anchor="middle" class="t" font-size="20" font-weight="700" letter-spacing="6" fill="url(#gold)">FICHA DO PERSONAGEM</text>
+<path d="M300 66 H600" stroke="#e8c170" stroke-width="1.5"/>
+<line x1="440" y1="95" x2="440" y2="300" stroke="#a67c2e" stroke-width="1" opacity=".5"/>
+<text x="60" y="110" class="s" font-size="13" fill="#a67c2e">Classe</text><text x="170" y="110" class="t" font-size="16" fill="#f3e6c8">Magic Gladiator</text>
+<text x="60" y="140" class="s" font-size="13" fill="#a67c2e">Nível</text><text x="170" y="140" class="t" font-size="16" fill="#f3e6c8">400 <tspan fill="#a67c2e" font-size="12">· Master Reset</tspan></text>
+<text x="60" y="170" class="s" font-size="13" fill="#a67c2e">Guilda</text><text x="170" y="170" class="t" font-size="16" fill="#f3e6c8">Valkyr Corp ⚔</text>
+<text x="60" y="200" class="s" font-size="13" fill="#a67c2e">Servidor</text><text x="170" y="200" class="t" font-size="16" fill="#f3e6c8">Brasil 🇧🇷</text>
+<text x="60" y="245" class="t" font-size="13" font-weight="700" fill="#b22222">HP</text><rect x="100" y="234" width="300" height="14" rx="7" fill="#2a1d12" stroke="#a67c2e" stroke-width=".8"/><rect x="102" y="236" width="296" height="10" rx="5" fill="#b22222" opacity=".85"><animate attributeName="opacity" values=".6;1;.6" dur="2.4s" repeatCount="indefinite"/></rect><text x="250" y="245" text-anchor="middle" class="s" font-size="10" fill="#fff">Café 100%</text>
+<text x="60" y="275" class="t" font-size="13" font-weight="700" fill="#2f5fd0">MP</text><rect x="100" y="264" width="300" height="14" rx="7" fill="#2a1d12" stroke="#a67c2e" stroke-width=".8"/><rect x="102" y="266" width="296" height="10" rx="5" fill="#2f5fd0" opacity=".85"><animate attributeName="opacity" values=".6;1;.6" dur="2.4s" repeatCount="indefinite"/></rect><text x="250" y="275" text-anchor="middle" class="s" font-size="10" fill="#fff">Foco 100%</text>
+<text x="470" y="102" class="t" font-size="12" letter-spacing="4" fill="#a67c2e">ATRIBUTOS</text>
+
+<text x="470" y="133" class="t" font-size="15" font-weight="700" fill="url(#gold)">STR</text>
+<text x="520" y="133" class="s" font-size="13" fill="#f3e6c8">Ruby on Rails</text>
+<rect x="520" y="139" width="330" height="8" rx="2" fill="#2a1d12" stroke="#a67c2e" stroke-width=".6"/>
+<rect x="520" y="139" width="0" height="8" rx="2" fill="#cc342d">
+  <animate attributeName="width" from="0" to="330" dur="1.4s" begin="0.20s" fill="freeze"/>
+</rect>
+<text x="850" y="133" text-anchor="end" class="s" font-size="12" fill="#e8c170">32767</text>
+<text x="470" y="167" class="t" font-size="15" font-weight="700" fill="url(#gold)">AGI</text>
+<text x="520" y="167" class="s" font-size="13" fill="#f3e6c8">React Native</text>
+<rect x="520" y="173" width="330" height="8" rx="2" fill="#2a1d12" stroke="#a67c2e" stroke-width=".6"/>
+<rect x="520" y="173" width="0" height="8" rx="2" fill="#61dafb">
+  <animate attributeName="width" from="0" to="286" dur="1.4s" begin="0.35s" fill="freeze"/>
+</rect>
+<text x="850" y="167" text-anchor="end" class="s" font-size="12" fill="#e8c170">28400</text>
+<text x="470" y="201" class="t" font-size="15" font-weight="700" fill="url(#gold)">VIT</text>
+<text x="520" y="201" class="s" font-size="13" fill="#f3e6c8">PostgreSQL</text>
+<rect x="520" y="207" width="330" height="8" rx="2" fill="#2a1d12" stroke="#a67c2e" stroke-width=".6"/>
+<rect x="520" y="207" width="0" height="8" rx="2" fill="#6c9bd2">
+  <animate attributeName="width" from="0" to="303" dur="1.4s" begin="0.50s" fill="freeze"/>
+</rect>
+<text x="850" y="201" text-anchor="end" class="s" font-size="12" fill="#e8c170">30100</text>
+<text x="470" y="235" class="t" font-size="15" font-weight="700" fill="url(#gold)">ENE</text>
+<text x="520" y="235" class="s" font-size="13" fill="#f3e6c8">AWS</text>
+<rect x="520" y="241" width="330" height="8" rx="2" fill="#2a1d12" stroke="#a67c2e" stroke-width=".6"/>
+<rect x="520" y="241" width="0" height="8" rx="2" fill="#ff9900">
+  <animate attributeName="width" from="0" to="250" dur="1.4s" begin="0.65s" fill="freeze"/>
+</rect>
+<text x="850" y="235" text-anchor="end" class="s" font-size="12" fill="#e8c170">24800</text>
+<text x="470" y="269" class="t" font-size="15" font-weight="700" fill="url(#gold)">CMD</text>
+<text x="520" y="269" class="s" font-size="13" fill="#f3e6c8">UI/UX · Figma</text>
+<rect x="520" y="275" width="330" height="8" rx="2" fill="#2a1d12" stroke="#a67c2e" stroke-width=".6"/>
+<rect x="520" y="275" width="0" height="8" rx="2" fill="#a259ff">
+  <animate attributeName="width" from="0" to="227" dur="1.4s" begin="0.80s" fill="freeze"/>
+</rect>
+<text x="850" y="269" text-anchor="end" class="s" font-size="12" fill="#e8c170">22500</text>
+<text x="850" y="302" text-anchor="end" class="s" font-size="11" font-style="italic" fill="#a67c2e">Pontos livres: 0 — tudo distribuído</text>
+<rect x="14" y="14" width="872" height="302" rx="4" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+<rect x="20" y="20" width="860" height="290" rx="2" fill="none" stroke="#a67c2e" stroke-width="1" opacity=".7"/>
+<path d="M14 3 L25 14 L14 25 L3 14 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="14" cy="14" r="3" fill="#8b1e1e"/>
+<path d="M886 3 L897 14 L886 25 L875 14 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="886" cy="14" r="3" fill="#8b1e1e"/>
+<path d="M14 305 L25 316 L14 327 L3 316 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="14" cy="316" r="3" fill="#8b1e1e"/>
+<path d="M886 305 L897 316 L886 327 L875 316 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="886" cy="316" r="3" fill="#8b1e1e"/>
+</svg>

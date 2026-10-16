@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+
+<defs>
+  <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff1c1"/><stop offset=".45" stop-color="#e8c170"/>
+    <stop offset=".55" stop-color="#a67c2e"/><stop offset="1" stop-color="#f6d27a"/>
+  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#20160d"/><stop offset="1" stop-color="#0d0a07"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".5" cy=".55" r=".6">
+    <stop offset="0" stop-color="#7a2a0c" stop-opacity=".55"/><stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="shine" x="-20%" y="-50%" width="140%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  .t{font-family:Cinzel, 'Trajan Pro', 'Palatino Linotype', Palatino, Georgia, serif;}
+  @keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+  .p{animation:pulse 3.5s ease-in-out infinite}
+</style>
+<rect width="900" height="260" fill="url(#bg)"/>
+<rect width="900" height="260" fill="url(#glow)" class="p"/>
+<!-- castle silhouette -->
+<path d="M0 260 L0 205 L40 205 L40 190 L52 190 L52 200 L64 200 L64 190 L76 190 L76 205 L120 205 L120 170 L130 150 L140 170 L140 205
+ L760 205 L760 170 L770 150 L780 170 L780 205 L824 205 L824 190 L836 190 L836 200 L848 200 L848 190 L860 190 L860 205 L900 205 L900 260 Z"
+ fill="#000" opacity=".55"/>
+<circle cx="361" cy="240" r="1.1" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="125" dur="8.7s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="8.7s" begin="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="578" cy="240" r="2.5" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="47" dur="4.5s" begin="3.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.5s" begin="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="68" cy="240" r="1.4" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="90" dur="4.4s" begin="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.4s" begin="2.5s" repeatCount="indefinite"/></circle>
+<circle cx="464" cy="240" r="2.5" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="100" dur="4.3s" begin="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.3s" begin="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="672" cy="240" r="1.9" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="26" dur="6.9s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6.9s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="256" cy="240" r="1.5" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="38" dur="4.2s" begin="5.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.2s" begin="5.2s" repeatCount="indefinite"/></circle>
+<circle cx="583" cy="240" r="2.3" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="43" dur="4.6s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.6s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="135" cy="240" r="1.6" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="90" dur="6.9s" begin="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6.9s" begin="3.8s" repeatCount="indefinite"/></circle>
+<circle cx="759" cy="240" r="1.3" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="107" dur="4.3s" begin="0.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.3s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="574" cy="240" r="1.9" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="78" dur="6.1s" begin="1.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6.1s" begin="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="400" cy="240" r="2.1" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="51" dur="5.5s" begin="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="5.5s" begin="4.8s" repeatCount="indefinite"/></circle>
+<circle cx="113" cy="240" r="2.4" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="113" dur="6.9s" begin="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6.9s" begin="3.2s" repeatCount="indefinite"/></circle>
+<circle cx="489" cy="240" r="1.2" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="73" dur="5.4s" begin="5.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="5.4s" begin="5.9s" repeatCount="indefinite"/></circle>
+<circle cx="198" cy="240" r="1.8" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="25" dur="7.8s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="7.8s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="714" cy="240" r="2.3" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="124" dur="4.4s" begin="3.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.4s" begin="3.3s" repeatCount="indefinite"/></circle>
+<circle cx="351" cy="240" r="1.8" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="122" dur="5.7s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="5.7s" begin="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="497" cy="240" r="1.4" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="109" dur="4.3s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.3s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="710" cy="240" r="1.5" fill="#ffb347" opacity="0"><animate attributeName="cy" from="240" to="93" dur="4.3s" begin="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.3s" begin="4.4s" repeatCount="indefinite"/></circle>
+<g transform="translate(95,120) scale(1.15,1.15) rotate(-35)" opacity=".9">
+  <path d="M0 -70 L6 -58 L6 30 L0 38 L-6 30 L-6 -58 Z" fill="#cfd6dd" stroke="#6b7682" stroke-width="1"/>
+  <path d="M0 -62 L0 30" stroke="#ffffff" stroke-width="1" opacity=".6"/>
+  <rect x="-22" y="30" width="44" height="7" rx="3" fill="url(#gold)"/>
+  <rect x="-3.5" y="37" width="7" height="24" fill="#5a3a1c"/>
+  <circle cx="0" cy="65" r="6" fill="url(#gold)"/><circle cx="0" cy="65" r="2.5" fill="#8b1e1e"/>
+</g>
+<g transform="translate(805,120) scale(-1.15,1.15) rotate(-35)" opacity=".9">
+  <path d="M0 -70 L6 -58 L6 30 L0 38 L-6 30 L-6 -58 Z" fill="#cfd6dd" stroke="#6b7682" stroke-width="1"/>
+  <path d="M0 -62 L0 30" stroke="#ffffff" stroke-width="1" opacity=".6"/>
+  <rect x="-22" y="30" width="44" height="7" rx="3" fill="url(#gold)"/>
+  <rect x="-3.5" y="37" width="7" height="24" fill="#5a3a1c"/>
+  <circle cx="0" cy="65" r="6" fill="url(#gold)"/><circle cx="0" cy="65" r="2.5" fill="#8b1e1e"/>
+</g>
+<text x="450" y="58" text-anchor="middle" class="t" font-size="15" letter-spacing="7" fill="#a67c2e">⚔ VALKYR CORP ⚔</text>
+<text x="450" y="128" text-anchor="middle" class="t" font-size="58" font-weight="700" letter-spacing="5"
+ fill="url(#gold)" stroke="#3a2410" stroke-width="1.2" filter="url(#shine)">JAIME LUCAS</text>
+<path d="M250 150 H420 L450 140 L480 150 H650" fill="none" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="450" cy="150" r="5" fill="#8b1e1e" stroke="url(#gold)" stroke-width="1.5"/>
+<text x="450" y="185" text-anchor="middle" class="t" font-size="19" letter-spacing="4" fill="#f3e6c8">MAGIC GLADIATOR · FULL-STACK</text>
+<text x="450" y="212" text-anchor="middle" class="t" font-size="13" letter-spacing="3" fill="#a67c2e">RUBY ON RAILS · REACT NATIVE · POSTGRESQL · AWS</text>
+<rect x="14" y="14" width="872" height="232" rx="4" fill="none" stroke="url(#gold)" stroke-width="2.5"/>
+<rect x="20" y="20" width="860" height="220" rx="2" fill="none" stroke="#a67c2e" stroke-width="1" opacity=".7"/>
+<path d="M14 3 L25 14 L14 25 L3 14 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="14" cy="14" r="3" fill="#8b1e1e"/>
+<path d="M886 3 L897 14 L886 25 L875 14 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="886" cy="14" r="3" fill="#8b1e1e"/>
+<path d="M14 235 L25 246 L14 257 L3 246 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="14" cy="246" r="3" fill="#8b1e1e"/>
+<path d="M886 235 L897 246 L886 257 L875 246 Z" fill="#0d0a07" stroke="url(#gold)" stroke-width="2"/>
+<circle cx="886" cy="246" r="3" fill="#8b1e1e"/>
+</svg>
