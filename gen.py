@@ -303,10 +303,10 @@ def readme(lg):
 ## {t['party']}
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaimelukaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jaimelukaz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white"/></a>
   <a href="https://instagram.com/jaimelucaz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://facebook.com/jaimelucazz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://github.com/DN4code"><img src="https://img.shields.io/badge/DN4code-1a120b?style=for-the-badge&logo=github&logoColor=e8c170"/></a>
+  <a href="https://dn4code.com.br"><img src="https://img.shields.io/badge/DN4code-0b3d6b?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <p align="center">{t['foot']}</p>
