@@ -197,7 +197,7 @@ STATS_THEME = "bg_color=0d0a07&title_color=e8c170&text_color=f3e6c8&icon_color=a
 
 T = {
     "pt": dict(file="README.md",
-               intro="> *Um Magic Gladiator do servidor Brasil: metade guerreiro do backend, metade mago do mobile. Forja sistemas em **Rails** e **PostgreSQL**, invoca apps em **React Native**, desenha interfaces no **Figma** e mantém tudo de pé nas muralhas da **AWS**. Co-fundador da guilda **DN4Code Tech Solutions**.*",
+               intro="> *Um Magic Gladiator do servidor Brasil: metade guerreiro do backend, metade mago do mobile. Forja sistemas em **Rails** e **PostgreSQL**, invoca apps em **React Native**, desenha interfaces no **Figma** e mantém tudo de pé nas muralhas da **AWS**. Fundador da guilda **DN4Code Tech Solutions**.*",
                quests="📜 Missões ativas", qh=("Missão", "Recompensa", "Status"),
                q=[("🎯 **OpinaKI**", "Rede social gamificada de previsões e opiniões — [opinaki.com](https://opinaki.com)", "⚔ Em batalha"),
                   ("🏰 **MU Online Server**", "Servidor privado de MU Online, do core ao client", "⚔ Em batalha"),
@@ -207,7 +207,7 @@ T = {
                st="📊 Registro de batalha", party="🛡 Chamar para a party",
                foot="*“Quem não reseta, não evolui.”*"),
     "en": dict(file="README.en.md",
-               intro="> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Co-founder of the **DN4Code Tech Solutions** guild.*",
+               intro="> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Founder of the **DN4Code Tech Solutions** guild.*",
                quests="📜 Active quests", qh=("Quest", "Reward", "Status"),
                q=[("🎯 **OpinaKI**", "Gamified social network for predictions and opinions — [opinaki.com](https://opinaki.com)", "⚔ In battle"),
                   ("🏰 **MU Online Server**", "Private MU Online server, from core to client", "⚔ In battle"),
@@ -217,7 +217,7 @@ T = {
                st="📊 Battle log", party="🛡 Invite to party",
                foot="*“No reset, no progress.”*"),
     "es": dict(file="README.es.md",
-               intro="> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Cofundador del gremio **DN4Code Tech Solutions**.*",
+               intro="> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Fundador del gremio **DN4Code Tech Solutions**.*",
                quests="📜 Misiones activas", qh=("Misión", "Recompensa", "Estado"),
                q=[("🎯 **OpinaKI**", "Red social gamificada de predicciones y opiniones — [opinaki.com](https://opinaki.com)", "⚔ En batalla"),
                   ("🏰 **MU Online Server**", "Servidor privado de MU Online, del core al cliente", "⚔ En batalla"),
