@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;Valkyr+Corp+%E2%80%94+Co-founder" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;DN4Code+Tech+Solutions+%E2%80%94+Co-founder" alt="typing"/>
 </p>
 
-> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Cofundador del gremio **Valkyr Corp**.*
+> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Cofundador del gremio **DN4Code Tech Solutions**.*
 
 <p align="center"><img src="assets/card-es.svg" width="100%" alt="📜 Misiones activas"/></p>
 

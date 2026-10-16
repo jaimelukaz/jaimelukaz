@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;Valkyr+Corp+%E2%80%94+Co-founder" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;DN4Code+Tech+Solutions+%E2%80%94+Co-founder" alt="typing"/>
 </p>
 
-> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Co-founder of the **Valkyr Corp** guild.*
+> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Co-founder of the **DN4Code Tech Solutions** guild.*
 
 <p align="center"><img src="assets/card-en.svg" width="100%" alt="📜 Active quests"/></p>
 

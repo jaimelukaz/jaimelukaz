@@ -59,7 +59,7 @@
   <rect x="-3.5" y="37" width="7" height="24" fill="#5a3a1c"/>
   <circle cx="0" cy="65" r="6" fill="url(#gold)"/><circle cx="0" cy="65" r="2.5" fill="#8b1e1e"/>
 </g>
-<text x="450" y="58" text-anchor="middle" class="t" font-size="15" letter-spacing="7" fill="#a67c2e">⚔ VALKYR CORP ⚔</text>
+<text x="450" y="58" text-anchor="middle" class="t" font-size="15" letter-spacing="7" fill="#a67c2e">⚔ DN4CODE TECH SOLUTIONS ⚔</text>
 <text x="450" y="128" text-anchor="middle" class="t" font-size="58" font-weight="700" letter-spacing="5"
  fill="url(#gold)" stroke="#3a2410" stroke-width="1.2" filter="url(#shine)">JAIME LUCAS</text>
 <path d="M250 150 H420 L450 140 L480 150 H650" fill="none" stroke="url(#gold)" stroke-width="2"/>

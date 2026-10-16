@@ -92,7 +92,7 @@ def banner():
 {embers(w, h)}
 {sword(95, 120, 1.15)}
 {sword(805, 120, 1.15, flip=True)}
-<text x="450" y="58" text-anchor="middle" class="t" font-size="15" letter-spacing="7" fill="{GOLD_D}">⚔ VALKYR CORP ⚔</text>
+<text x="450" y="58" text-anchor="middle" class="t" font-size="15" letter-spacing="7" fill="{GOLD_D}">⚔ DN4CODE TECH SOLUTIONS ⚔</text>
 <text x="450" y="128" text-anchor="middle" class="t" font-size="58" font-weight="700" letter-spacing="5"
  fill="url(#gold)" stroke="#3a2410" stroke-width="1.2" filter="url(#shine)">JAIME LUCAS</text>
 <path d="M250 150 H420 L450 140 L480 150 H650" fill="none" stroke="url(#gold)" stroke-width="2"/>
@@ -165,7 +165,7 @@ def card(lang):
 <line x1="440" y1="95" x2="440" y2="300" stroke="{GOLD_D}" stroke-width="1" opacity=".5"/>
 {kv(110, t['cls'], t['clsv'])}
 {kv(140, t['lvl'], '400 <tspan fill="' + GOLD_D + '" font-size="12">· Master Reset</tspan>')}
-{kv(170, t['guild'], 'Valkyr Corp ⚔')}
+{kv(170, t['guild'], 'DN4Code Tech Solutions')}
 {kv(200, t['realm'], t['realmv'])}
 {bar(245, t['hp'], t['hpv'], '#b22222')}
 {bar(275, t['mp'], t['mpv'], '#2f5fd0')}
@@ -197,7 +197,7 @@ STATS_THEME = "bg_color=0d0a07&title_color=e8c170&text_color=f3e6c8&icon_color=a
 
 T = {
     "pt": dict(file="README.md",
-               intro="> *Um Magic Gladiator do servidor Brasil: metade guerreiro do backend, metade mago do mobile. Forja sistemas em **Rails** e **PostgreSQL**, invoca apps em **React Native**, desenha interfaces no **Figma** e mantém tudo de pé nas muralhas da **AWS**. Co-fundador da guilda **Valkyr Corp**.*",
+               intro="> *Um Magic Gladiator do servidor Brasil: metade guerreiro do backend, metade mago do mobile. Forja sistemas em **Rails** e **PostgreSQL**, invoca apps em **React Native**, desenha interfaces no **Figma** e mantém tudo de pé nas muralhas da **AWS**. Co-fundador da guilda **DN4Code Tech Solutions**.*",
                quests="📜 Missões ativas", qh=("Missão", "Recompensa", "Status"),
                q=[("🎯 **OpinaKI**", "Rede social gamificada de previsões e opiniões — [opinaki.com](https://opinaki.com)", "⚔ Em batalha"),
                   ("🏰 **MU Online Server**", "Servidor privado de MU Online, do core ao client", "⚔ Em batalha"),
@@ -207,7 +207,7 @@ T = {
                st="📊 Registro de batalha", party="🛡 Chamar para a party",
                foot="*“Quem não reseta, não evolui.”*"),
     "en": dict(file="README.en.md",
-               intro="> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Co-founder of the **Valkyr Corp** guild.*",
+               intro="> *A Magic Gladiator from the Brazil realm: half backend warrior, half mobile mage. Forges systems in **Rails** and **PostgreSQL**, summons apps with **React Native**, designs interfaces in **Figma** and keeps it all standing on the **AWS** walls. Co-founder of the **DN4Code Tech Solutions** guild.*",
                quests="📜 Active quests", qh=("Quest", "Reward", "Status"),
                q=[("🎯 **OpinaKI**", "Gamified social network for predictions and opinions — [opinaki.com](https://opinaki.com)", "⚔ In battle"),
                   ("🏰 **MU Online Server**", "Private MU Online server, from core to client", "⚔ In battle"),
@@ -217,7 +217,7 @@ T = {
                st="📊 Battle log", party="🛡 Invite to party",
                foot="*“No reset, no progress.”*"),
     "es": dict(file="README.es.md",
-               intro="> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Cofundador del gremio **Valkyr Corp**.*",
+               intro="> *Un Magic Gladiator del servidor Brasil: mitad guerrero del backend, mitad mago del mobile. Forja sistemas en **Rails** y **PostgreSQL**, invoca apps con **React Native**, diseña interfaces en **Figma** y lo mantiene todo en pie sobre las murallas de **AWS**. Cofundador del gremio **DN4Code Tech Solutions**.*",
                quests="📜 Misiones activas", qh=("Misión", "Recompensa", "Estado"),
                q=[("🎯 **OpinaKI**", "Red social gamificada de predicciones y opiniones — [opinaki.com](https://opinaki.com)", "⚔ En batalla"),
                   ("🏰 **MU Online Server**", "Servidor privado de MU Online, del core al cliente", "⚔ En batalla"),
@@ -273,7 +273,7 @@ def readme(lg):
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;Valkyr+Corp+%E2%80%94+Co-founder" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&duration=3200&pause=900&color=E8C170&center=true&vCenter=true&width=700&lines=Rails+%E2%9A%94+PostgreSQL+%E2%9A%94+React+Native;AWS+%C2%B7+Figma+%C2%B7+PIX;DN4Code+Tech+Solutions+%E2%80%94+Co-founder" alt="typing"/>
 </p>
 
 {t['intro']}
